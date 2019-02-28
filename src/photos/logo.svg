@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Vector_Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="-273 365 64 64" style="enable-background:new -273 365 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:#2EB454;stroke:#2EB454;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#2EB454;stroke:#2CB34A;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:#2EB454;}
+	.st5{stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st9{fill:none;}
+	.st10{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st11{opacity:0.3;fill:url(#SVGID_1_);enable-background:new    ;}
+	.st12{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st13{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st14{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#2EB454;stroke-width:3;stroke-miterlimit:10;}
+	.st17{stroke:#2EB454;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<symbol  id="Back" viewBox="-55.4 -55.4 110.8 110.8">
+	<path class="st0" d="M53.9,0c0-29.8-24.2-53.9-53.9-53.9S-53.9-29.8-53.9,0S-29.8,53.9,0,53.9S53.9,29.8,53.9,0z"/>
+	<path class="st1" d="M-27.2,22.3V-22c0-2.6,2.1-4.7,4.7-4.7l0,0c2.6,0,4.7,2.1,4.7,4.7V0.1v22.2c0,2.6-2.1,4.7-4.7,4.7l0,0
+		C-25.1,26.9-27.2,24.8-27.2,22.3z"/>
+	<path class="st2" d="M27.5-20.4v45.2c0,2.6-2.7,4.1-4.8,2.8L-14.5,3.1c-1.9-1.3-1.9-4.2,0-5.5l37.2-24.5c2.1-1.4,4.8,0.2,4.8,2.8
+		V-20.4z"/>
+</symbol>
+<symbol  id="Closed_Eye" viewBox="-53.9 -53.9 107.8 107.8">
+	<path d="M53.9,0c0-29.8-24.2-53.9-53.9-53.9S-53.9-29.8-53.9,0S-29.8,53.9,0,53.9S53.9,29.8,53.9,0z"/>
+	<path class="st3" d="M36.4,0.6c0.1-0.5,0.1-0.9,0.1-1.4c-0.1-9.3-19.4-18-35.7-18c-16.7,0-36.3,9.1-36.3,18.5c0,0.3,0,0.7,0.1,1"/>
+	<line class="st3" x1="36.5" y1="-18.8" x2="30.6" y2="-9.7"/>
+	<line class="st3" x1="19" y1="-27.3" x2="16" y2="-16.6"/>
+	<line class="st3" x1="0.9" y1="-31" x2="0.8" y2="-18.8"/>
+	<line class="st3" x1="-30.5" y1="-9.7" x2="-36.5" y2="-18.8"/>
+	<line class="st3" x1="-16.2" y1="-16.6" x2="-18.5" y2="-27.3"/>
+</symbol>
+<symbol  id="Forward" viewBox="-55.4 -55.4 110.8 110.8">
+	<path class="st0" d="M53.9,0c0-29.8-24.2-53.9-53.9-53.9S-53.9-29.8-53.9,0S-29.8,53.9,0,53.9S53.9,29.8,53.9,0z"/>
+	<path class="st1" d="M27.3-21.6v44.3c0,2.6-2.1,4.7-4.7,4.7l0,0c-2.6,0-4.7-2.1-4.7-4.7V0.6v-22.2c0-2.6,2.1-4.7,4.7-4.7l0,0
+		C25.2-26.2,27.3-24.2,27.3-21.6z"/>
+	<path class="st1" d="M-27.3,21.1v-45.2c0-2.6,2.7-4.1,4.8-2.8L14.7-2.4c1.9,1.3,1.9,4.2,0,5.5l-37.2,24.5c-2.1,1.4-4.8-0.2-4.8-2.8
+		V21.1z"/>
+</symbol>
+<symbol  id="Logo" viewBox="-53.9 -53.9 107.9 108">
+	<g id="XMLID_7_">
+		<g>
+			<path d="M0.1,54.1c29.8,0,54-24.2,54-54s-24.1-54-54-54c-19.7,0-36.6,11.6-45.9,26.1c-2,3.2-3.7,6.4-5,9.8
+				c-3.3,8.9-3.1,16.3-3,18.1C-52.9,22.7-33.5,54.1,0.1,54.1z"/>
+		</g>
+		<g>
+		</g>
+	</g>
+	<g id="XMLID_4_">
+		<g>
+			<path class="st4" d="M50.1-0.7c-0.3-2.4-0.8-5.8-2.1-9.5c-1.1-3.2-5.1-4.3-7.7-2.1c-5.3,4.3-10.4,10-15.8,10
+				c-8.8,0-5.6-15-12.5-14.9C4.9-17.2,9.2,6,0.3,4.4s-8.8-37.5-17.2-37.5S-27.2-9-33.2-9.4c-1.7-0.1-5-4.4-7.2-7.9
+				c-0.4-0.6-0.8-1.2-1.2-1.8c-0.5-0.8-1.4,0-2.3,1.6c-1.6,2.7-3.6,6.6-3.1,7.8c0.1,0.3,0.3,0.7,0.4,1c2.6,6.5,8.6,19.9,13.3,20.3
+				c6.2,0.4,8.1-25.8,16.7-25.8s8.6,39.1,17.6,40.8C9.8,28.3,5.6,3,12.6,3c7.2-0.1,3.8,16.2,12.9,16.2c7.5,0,14.6-11.2,21.9-15
+				C49.3,3.3,50.3,1.3,50.1-0.7z"/>
+		</g>
+		<g>
+		</g>
+	</g>
+</symbol>
+<symbol  id="Music" viewBox="-54.4 -54.4 108.8 108.8">
+	<path class="st5" d="M53.9,0c0-29.8-24.2-53.9-53.9-53.9S-53.9-29.8-53.9,0S-29.8,53.9,0,53.9S53.9,29.8,53.9,0z"/>
+	<path class="st6" d="M-26.8-18.8v29.5c0,4,3.3,7.3,7.3,7.3h38.9c4,0,7.3-3.3,7.3-7.3v-29.5"/>
+	<path class="st7" d="M-29.1-17.9c1.3,0,2.3-0.3,2.3-0.7s-1-0.6-2.3-0.6s-2.3,0.3-2.3,0.7S-30.4-17.9-29.1-17.9z"/>
+	<path class="st7" d="M24.4-18.1c1.3,0,2.3-0.3,2.3-0.7c0-0.4-1-0.6-2.3-0.6s-2.3,0.3-2.3,0.7C22.1-18.4,23.1-18.1,24.4-18.1z"/>
+</symbol>
+<symbol  id="Music_Long" viewBox="-54.4 -54.4 108.8 108.8">
+	<path class="st5" d="M53.9,0c0-29.8-24.2-53.9-53.9-53.9S-53.9-29.8-53.9,0S-29.8,53.9,0,53.9S53.9,29.8,53.9,0z"/>
+	<path class="st7" d="M-29-18.8c1.3,0,2.3-0.3,2.3-0.7c0-0.4-1-0.6-2.3-0.6s-2.3,0.3-2.3,0.7C-31.3-19.1-30.3-18.8-29-18.8z"/>
+	<path class="st7" d="M24.5-31.6c1.3,0,2.3-0.3,2.3-0.7c0-0.4-1-0.6-2.3-0.6s-2.3,0.3-2.3,0.7C22.2-31.9,23.2-31.6,24.5-31.6z"/>
+	<path class="st6" d="M-26.7-19.5V10c0,4,3.3,7.3,7.3,7.3h38.9c4,0,7.3-3.3,7.3-7.3v-29.5v-12.8"/>
+</symbol>
+<symbol  id="Play" viewBox="-55.4 -55.4 110.8 110.8">
+	<path class="st0" d="M53.9,0c0-29.8-24.2-53.9-53.9-53.9S-53.9-29.8-53.9,0S-29.8,53.9,0,53.9S53.9,29.8,53.9,0z"/>
+	<path class="st1" d="M-18.1,21.3v-41.9c0-4.5,4.9-7.1,8.6-4.7L23-4.5c3.4,2.2,3.4,7.3,0,9.5L-9.4,26
+		C-13.1,28.4-18.1,25.8-18.1,21.3z"/>
+</symbol>
+<symbol  id="Playlist" viewBox="-55.4 -55.4 110.8 110.8">
+	<path class="st0" d="M53.9,0c0-29.8-24.2-53.9-53.9-53.9S-53.9-29.8-53.9,0S-29.8,53.9,0,53.9S53.9,29.8,53.9,0z"/>
+	<path class="st8" d="M-23.8,18c0-1.8-1.5-3.3-3.3-3.3s-3.3,1.5-3.3,3.3s1.5,3.3,3.3,3.3C-25.3,21.4-23.8,19.9-23.8,18z"/>
+	<path class="st8" d="M-23.8,0c0-1.8-1.5-3.3-3.3-3.3s-3.3,1.5-3.3,3.3s1.5,3.3,3.3,3.3S-23.8,1.8-23.8,0z"/>
+	<path class="st8" d="M-23.8-18.2c0-1.8-1.5-3.3-3.3-3.3s-3.3,1.5-3.3,3.3s1.5,3.3,3.3,3.3C-25.3-14.8-23.8-16.3-23.8-18.2z"/>
+	<path class="st8" d="M26.4,14.7H-7.9c-1.8,0-3.3,1.5-3.3,3.3l0,0c0,1.8,1.5,3.3,3.3,3.3h34.3c1.8,0,3.3-1.5,3.3-3.3l0,0
+		C29.8,16.2,28.3,14.7,26.4,14.7z"/>
+	<path class="st8" d="M26.4-3.3H-7.9c-1.8,0-3.3,1.5-3.3,3.3l0,0c0,1.8,1.5,3.3,3.3,3.3h34.3c1.8,0,3.3-1.5,3.3-3.3l0,0
+		C29.8-1.8,28.3-3.3,26.4-3.3z"/>
+	<path class="st8" d="M26.4-21.5H-7.9c-1.8,0-3.3,1.5-3.3,3.3l0,0c0,1.8,1.5,3.3,3.3,3.3h34.3c1.8,0,3.3-1.5,3.3-3.3l0,0
+		C29.8-20,28.3-21.5,26.4-21.5z"/>
+</symbol>
+<pattern  x="-273" y="429" width="9" height="9" patternUnits="userSpaceOnUse" id="dots" viewBox="0 -9 9 9" style="overflow:visible;">
+	<g>
+		<polygon class="st9" points="0,0 9,0 9,-9 0,-9 		"/>
+		<g>
+			<polygon class="st9" points="0,0 9,0 9,-9 0,-9 			"/>
+			<path d="M5.9-4.5c0-0.8-0.6-1.4-1.4-1.4S3.1-5.3,3.1-4.5s0.6,1.4,1.4,1.4S5.9-3.7,5.9-4.5z"/>
+		</g>
+	</g>
+</pattern>
+<rect x="-921.2" y="257.8" class="st10" width="107.9" height="107.9"/>
+<rect x="-786" y="257.8" class="st10" width="107.9" height="107.9"/>
+<rect x="-641.8" y="257.8" class="st10" width="107.9" height="107.9"/>
+<rect x="-497.6" y="257.8" class="st10" width="107.9" height="107.9"/>
+<rect x="-921.2" y="393" class="st10" width="107.9" height="107.9"/>
+<rect x="-786" y="393" class="st10" width="107.9" height="107.9"/>
+<rect x="-641.8" y="393" class="st10" width="107.9" height="107.9"/>
+<rect x="-497.6" y="393" class="st10" width="107.9" height="107.9"/>
+<rect x="-921.2" y="528.2" class="st10" width="107.9" height="107.9"/>
+<rect x="-786" y="528.2" class="st10" width="107.9" height="107.9"/>
+<rect x="-641.8" y="528.2" class="st10" width="107.9" height="107.9"/>
+<rect x="-497.6" y="528.2" class="st10" width="107.9" height="107.9"/>
+<rect x="-921.2" y="663.4" class="st10" width="107.9" height="107.9"/>
+<rect x="-786" y="663.4" class="st10" width="107.9" height="107.9"/>
+<rect x="-641.8" y="663.4" class="st10" width="107.9" height="107.9"/>
+<rect x="-497.6" y="663.4" class="st10" width="107.9" height="107.9"/>
+<rect x="-921.2" y="798.6" class="st10" width="107.9" height="107.9"/>
+<rect x="-786" y="798.6" class="st10" width="107.9" height="107.9"/>
+<rect x="-641.8" y="798.6" class="st10" width="107.9" height="107.9"/>
+<rect x="-497.6" y="798.6" class="st10" width="107.9" height="107.9"/>
+<pattern  id="SVGID_1_" xlink:href="#dots" patternTransform="matrix(1 0 0 -1 -685.4 -15539.9004)">
+</pattern>
+<rect x="-932.7" y="255.7" class="st11" width="554" height="736.3"/>
+<rect x="-856.4" y="950.5" class="st12" width="249.4" height="18"/>
+<rect x="-560.3" y="950.5" class="st12" width="105.8" height="18"/>
+<text transform="matrix(1 0 0 1 -851.665 963.539)" style="font-family:'MyriadPro-Regular'; font-size:10px;">Project:</text>
+<text transform="matrix(1 0 0 1 -557.665 963.539)" style="font-family:'MyriadPro-Regular'; font-size:10px;">Date:</text>
+<circle class="st10" cx="-443.6" cy="582.1" r="53.9"/>
+<circle class="st10" cx="-867.3" cy="717.3" r="53.9"/>
+<circle class="st10" cx="-732.1" cy="717.3" r="53.9"/>
+<circle class="st10" cx="-587.8" cy="717.3" r="53.9"/>
+<circle class="st10" cx="-443.6" cy="717.3" r="53.9"/>
+<circle class="st10" cx="-867.3" cy="852.5" r="53.9"/>
+<circle class="st10" cx="-732.1" cy="852.5" r="53.9"/>
+<circle class="st10" cx="-587.8" cy="852.5" r="53.9"/>
+<circle class="st10" cx="-443.6" cy="852.5" r="53.9"/>
+<g id="Eye_Icon">
+	<g id="New_Symbol">
+		<circle class="st0" cx="-867.3" cy="311.7" r="53.9"/>
+		<circle class="st0" cx="-241" cy="303.9" r="30"/>
+	</g>
+	<g>
+		<path class="st3" d="M-902.9,311.8c0.1-9.3,19.4-18,35.8-18c16.7,0,36.3,9.1,36.3,18.5c0,9.4-19.4,18.3-36,18.3
+			C-883.7,330.5-903,321.2-902.9,311.8z"/>
+		<circle class="st13" cx="-867.3" cy="311.7" r="7.9"/>
+		<line class="st3" x1="-902.9" y1="293.8" x2="-897.1" y2="302.9"/>
+		<line class="st3" x1="-885.4" y1="285.3" x2="-882.4" y2="296"/>
+		<line class="st3" x1="-867.3" y1="281.5" x2="-867.2" y2="293.8"/>
+		<path class="st14" d="M-835.9,303.9"/>
+		<path class="st14" d="M-898.3,303.9"/>
+		<line class="st3" x1="-835.9" y1="302.9" x2="-829.9" y2="293.8"/>
+		<line class="st3" x1="-850.2" y1="296" x2="-847.9" y2="285.3"/>
+	</g>
+	<g>
+		<path class="st3" d="M-261.2,303.9c0.1-5.3,11-10.2,20.2-10.2c9.4,0,20.5,5.1,20.5,10.5c0,5.3-11,10.4-20.4,10.3
+			C-250.3,314.4-261.2,309.2-261.2,303.9z"/>
+		<circle class="st13" cx="-241" cy="303.9" r="4.5"/>
+		<line class="st3" x1="-261.2" y1="293.7" x2="-257.9" y2="298.8"/>
+		<line class="st3" x1="-251.3" y1="288.9" x2="-249.6" y2="295"/>
+		<line class="st3" x1="-241" y1="286.8" x2="-241" y2="293.7"/>
+		<path class="st14" d="M-223.3,299.4"/>
+		<path class="st14" d="M-258.6,299.4"/>
+		<line class="st3" x1="-223.3" y1="298.8" x2="-219.9" y2="293.7"/>
+		<line class="st3" x1="-231.4" y1="295" x2="-230.1" y2="288.9"/>
+	</g>
+</g>
+<path class="st14" d="M-762.6,320.5"/>
+<path class="st14" d="M-700.2,320.5"/>
+<use xlink:href="#Closed_Eye"  width="107.8" height="107.8" x="-53.9" y="-53.9" transform="matrix(1.0009 0 0 -1.0009 -732.0035 311.6995)" style="overflow:visible;"/>
+<use xlink:href="#Closed_Eye"  width="107.8" height="107.8" x="-53.9" y="-53.9" transform="matrix(0.5844 0 0 -0.5844 -145.2811 303.8253)" style="overflow:visible;enable-background:new    ;"/>
+<use xlink:href="#Playlist"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(1.0009 0 0 -1.0009 -732.0035 446.8969)" style="overflow:visible;"/>
+<use xlink:href="#Playlist"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(0.5686 0 0 -0.5686 -145.2819 396.9716)" style="overflow:visible;enable-background:new    ;"/>
+<line class="st15" x1="-683.3" y1="466.4" x2="-683.1" y2="466.2"/>
+<use xlink:href="#Back"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(1.0009 0 0 -1.0009 -867.214 582.0943)" style="overflow:visible;"/>
+<use xlink:href="#Back"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(0.5686 0 0 -0.5686 -240.9716 479.8164)" style="overflow:visible;enable-background:new    ;"/>
+<use xlink:href="#Play"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(1.0009 0 0 -1.0009 -732.0035 582.0943)" style="overflow:visible;"/>
+<use xlink:href="#Play"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(0.5686 0 0 -0.5686 -145.2819 479.8164)" style="overflow:visible;enable-background:new    ;"/>
+<use xlink:href="#Forward"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(0.9748 0 0 -0.9748 -587.7943 582.0956)" style="overflow:visible;"/>
+<use xlink:href="#Forward"  width="110.8" height="110.8" x="-55.4" y="-55.4" transform="matrix(0.5686 0 0 -0.5686 -40.9716 479.8164)" style="overflow:visible;enable-background:new    ;"/>
+<path class="st16" d="M-818.8,458.5"/>
+<path class="st16" d="M-813.3,446.9"/>
+<path class="st16" d="M-818.6,469.6"/>
+<path class="st17" d="M-919.5,460.6"/>
+<use xlink:href="#Logo"  width="107.9" height="108" id="XMLID_3_" x="-53.9" y="-53.9" transform="matrix(0.9991 0 0 -0.9991 -867.3292 446.999)" style="overflow:visible;"/>
+<use xlink:href="#Logo"  width="107.9" height="108" id="XMLID_1_" x="-53.9" y="-53.9" transform="matrix(0.5836 0 0 -0.5836 -241.0463 397.0307)" style="overflow:visible;"/>
+<path class="st15" d="M-464.9,321.9"/>
+<use xlink:href="#Music"  width="108.8" height="108.8" x="-54.4" y="-54.4" transform="matrix(1.0009 0 0 -1.0009 -587.793 310.9851)" style="overflow:visible;"/>
+<use xlink:href="#Music"  width="108.8" height="108.8" x="-54.4" y="-54.4" transform="matrix(0.579 0 0 -0.579 -40.9711 303.8256)" style="overflow:visible;enable-background:new    ;"/>
+<path class="st15" d="M-470.4,457.4"/>
+<use xlink:href="#Music_Long"  width="108.8" height="108.8" x="-54.4" y="-54.4" transform="matrix(1.0009 0 0 -1.0009 -587.793 446.8969)" style="overflow:visible;"/>
+<use xlink:href="#Music_Long"  width="108.8" height="108.8" x="-54.4" y="-54.4" transform="matrix(0.579 0 0 -0.579 -40.9711 396.9711)" style="overflow:visible;enable-background:new    ;"/>
+</svg>
