@@ -63,3 +63,10 @@
   background-color: rgb(29, 121, 55);
 }
 
+#wave {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: auto;
+  width: 100vw;
+}
+
